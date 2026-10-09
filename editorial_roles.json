@@ -1,0 +1,50 @@
+[
+ {
+  "position": "Editorial Advisory Board",
+  "journal": "Journal of Gazi University of Science, Dergipark",
+  "fromYear": "2025",
+  "toYear": "Till date",
+  "category": "Editorial Advisory Board",
+  "sortOrder": 0
+ },
+ {
+  "position": "Associate Editor",
+  "journal": "Journal of Advances in Mechanical Engineering and Science (JAMES)",
+  "fromYear": "2015",
+  "toYear": "Till date",
+  "category": "Associate Editor",
+  "sortOrder": 1
+ },
+ {
+  "position": "Associate Editor",
+  "journal": "Journal of Modern Manufacturing Technology",
+  "fromYear": "2011",
+  "toYear": "Till date",
+  "category": "Associate Editor",
+  "sortOrder": 2
+ },
+ {
+  "position": "Editorial Board Member",
+  "journal": "International Journal of Design and Manufacturing Technology, Sathyabama University, Chennai, India.",
+  "fromYear": "2006",
+  "toYear": "2008",
+  "category": "Editorial Board",
+  "sortOrder": 3
+ },
+ {
+  "position": "International Editorial Review Board",
+  "journal": "The International Journal of Manufacturing, Materials, and Mechanical Engineering (IJMMME), IGI-GLOBAL Publishers, USA",
+  "fromYear": "2012",
+  "toYear": "Till date",
+  "category": "Editorial Board",
+  "sortOrder": 4
+ },
+ {
+  "position": "Associate Editor",
+  "journal": "The International Journal of Materials Forming and Machining Processes (IJMFMP), IGI-GLOBAL Publishers, USA.",
+  "fromYear": "2013",
+  "toYear": "Till date",
+  "category": "Associate Editor",
+  "sortOrder": 5
+ }
+]

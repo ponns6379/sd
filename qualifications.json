@@ -1,0 +1,42 @@
+[
+ {
+  "degree": "A.M.I.E. Mechanical Engineering",
+  "institution": "Institution of Engineers (India)",
+  "year": "",
+  "note": "",
+  "highlight": false,
+  "sortOrder": 1
+ },
+ {
+  "degree": "M.E. Production Engineering",
+  "institution": "Annamalai University",
+  "year": "1996",
+  "note": "University First Rank (year per the profile's awards record)",
+  "highlight": true,
+  "sortOrder": 2
+ },
+ {
+  "degree": "Ph.D. Mechanical Engineering",
+  "institution": "College of Engineering Guindy, Anna University, Chennai",
+  "year": "",
+  "note": "",
+  "highlight": false,
+  "sortOrder": 3
+ },
+ {
+  "degree": "Post Ph.D. work on machining of composites",
+  "institution": "University of Aveiro, Portugal",
+  "year": "",
+  "note": "With Prof. J. Paulo Davim",
+  "highlight": false,
+  "sortOrder": 4
+ },
+ {
+  "degree": "Post Diploma in Tool Design",
+  "institution": "Central Polytechnic, Chennai",
+  "year": "",
+  "note": "",
+  "highlight": false,
+  "sortOrder": 5
+ }
+]

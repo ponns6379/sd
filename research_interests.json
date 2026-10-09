@@ -1,0 +1,50 @@
+[
+ {
+  "title": "Composite Materials",
+  "description": "Processing and applications of composite materials — a primary research interest stated in the profile.",
+  "icon": "layers",
+  "sortOrder": 1
+ },
+ {
+  "title": "Natural Fiber Composites",
+  "description": "Natural-fibre reinforced composites; guided Ph.D. work includes mechanical and tribological characteristics of natural fibre composites.",
+  "icon": "leaf",
+  "sortOrder": 2
+ },
+ {
+  "title": "Machining of Composites",
+  "description": "Post-doctoral research on machining of composites with Prof. J. Paulo Davim, University of Aveiro, Portugal.",
+  "icon": "drill",
+  "sortOrder": 3
+ },
+ {
+  "title": "Total Quality Management",
+  "description": "Total quality management — a research interest stated in the profile.",
+  "icon": "gauge",
+  "sortOrder": 4
+ },
+ {
+  "title": "Optimization",
+  "description": "Optimization of processes and parameters — a research interest stated in the profile.",
+  "icon": "sliders",
+  "sortOrder": 5
+ },
+ {
+  "title": "Metal Matrix Composites",
+  "description": "Hybrid metal matrix composites: machining, wear and mechanical behaviour (evidenced by guided Ph.D. theses and listed publications).",
+  "icon": "atom",
+  "sortOrder": 6
+ },
+ {
+  "title": "Welding & Joining",
+  "description": "Friction welding and welding of titanium alloys and steels (evidenced by guided Ph.D. theses and listed publications).",
+  "icon": "flame",
+  "sortOrder": 7
+ },
+ {
+  "title": "Mechanical / Manufacturing Engineering",
+  "description": "Specialization stated in the profile: Mechanical / Manufacturing Engineering.",
+  "icon": "cog",
+  "sortOrder": 8
+ }
+]

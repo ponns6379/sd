@@ -1,0 +1,119 @@
+[
+ {
+  "key": "scopus_articles",
+  "label": "Scopus/WoS-indexed research articles",
+  "value": "310",
+  "note": "As stated in the profile",
+  "kind": "stated",
+  "group": "publications",
+  "sortOrder": 1
+ },
+ {
+  "key": "scopus_citations",
+  "label": "Scopus citations",
+  "value": "10,310",
+  "note": "As stated in the profile (Scopus/WoS-indexed articles)",
+  "kind": "stated",
+  "group": "publications",
+  "sortOrder": 2
+ },
+ {
+  "key": "scopus_h",
+  "label": "h-index (Scopus)",
+  "value": "53",
+  "note": "As stated in the profile",
+  "kind": "stated",
+  "group": "publications",
+  "sortOrder": 3
+ },
+ {
+  "key": "gs_articles",
+  "label": "Scopus/WoS/Google Scholar-indexed research articles",
+  "value": "353",
+  "note": "As stated in the profile",
+  "kind": "stated",
+  "group": "publications",
+  "sortOrder": 4
+ },
+ {
+  "key": "gs_citations",
+  "label": "Google Scholar citations",
+  "value": "15,688",
+  "note": "As stated in the profile (Scopus/WoS/Google Scholar-indexed articles)",
+  "kind": "stated",
+  "group": "publications",
+  "sortOrder": 5
+ },
+ {
+  "key": "gs_h",
+  "label": "h-index (Google Scholar)",
+  "value": "65",
+  "note": "As stated in the profile",
+  "kind": "stated",
+  "group": "publications",
+  "sortOrder": 6
+ },
+ {
+  "key": "patents",
+  "label": "Patents",
+  "value": "21",
+  "note": "\"Total Patents 21; Granted: 21\" as stated in the profile",
+  "kind": "stated",
+  "group": "innovation",
+  "sortOrder": 7
+ },
+ {
+  "key": "funding",
+  "label": "Research funding received",
+  "value": "~ 2 Crores",
+  "note": "\"Received the funding of around 2 Crores from funding Agencies\" as stated in the profile",
+  "kind": "stated",
+  "group": "funding",
+  "sortOrder": 8
+ },
+ {
+  "key": "peer_reviews",
+  "label": "Verified peer reviews (Publons / Web of Science)",
+  "value": "572",
+  "note": "99th percentile; 56 in the last 12 months — from the Publons metrics shown in the profile",
+  "kind": "stated",
+  "group": "recognition",
+  "sortOrder": 9
+ },
+ {
+  "key": "scholars",
+  "label": "Ph.D. scholars guided",
+  "value": "live:scholars",
+  "note": "Count of scholars listed in the profile",
+  "kind": "live",
+  "group": "supervision",
+  "sortOrder": 10
+ },
+ {
+  "key": "awards_count",
+  "label": "Awards & honours listed",
+  "value": "live:awards",
+  "note": "Count of records listed in the profile",
+  "kind": "live",
+  "group": "recognition",
+  "sortOrder": 11
+ },
+ {
+  "key": "projects_count",
+  "label": "Funded projects & grants listed",
+  "value": "live:projects",
+  "note": "Count of records listed in the profile",
+  "kind": "live",
+  "group": "funding",
+  "sortOrder": 12
+ },
+ {
+  "key": "editorial_count",
+  "label": "Editorial positions",
+  "value": "live:editorial_roles",
+  "note": "Count of records listed in the profile",
+  "kind": "live",
+  "group": "editorial",
+  "sortOrder": 13
+ }
+]

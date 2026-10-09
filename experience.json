@@ -1,0 +1,52 @@
+[
+ {
+  "designation": "Senior Professor and Principal",
+  "organization": "Sri Sai Ram Institute of Technology",
+  "startYear": "2008",
+  "endYear": "Till Date",
+  "duties": "Teaching, Research and administration of the Institution",
+  "reasonForLeaving": "Currently Working",
+  "kind": "Teaching & Research",
+  "sortOrder": 1
+ },
+ {
+  "designation": "Professor and Principal",
+  "organization": "S.R.R. Engineering College",
+  "startYear": "2004",
+  "endYear": "2008",
+  "duties": "Teaching, Research and administration of the Institution",
+  "reasonForLeaving": "Better prospects.",
+  "kind": "Teaching & Research",
+  "sortOrder": 2
+ },
+ {
+  "designation": "Lecturer, Assistant Professor, Professor",
+  "organization": "Sathyabama University, Sathyabama Engineering College, Chennai",
+  "startYear": "1994",
+  "endYear": "2004",
+  "duties": "Teaching, Research and administration of the Institution",
+  "reasonForLeaving": "Transferred to the new institution in the same group with promotion",
+  "kind": "Teaching & Research",
+  "sortOrder": 3
+ },
+ {
+  "designation": "Lab Instructor",
+  "organization": "Sathyabama Engineering College",
+  "startYear": "",
+  "endYear": "",
+  "duties": "4 years",
+  "reasonForLeaving": "",
+  "kind": "Other experience",
+  "sortOrder": 4
+ },
+ {
+  "designation": "Industrial Experience",
+  "organization": "",
+  "startYear": "",
+  "endYear": "",
+  "duties": "3 years",
+  "reasonForLeaving": "",
+  "kind": "Other experience",
+  "sortOrder": 5
+ }
+]

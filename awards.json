@@ -1,0 +1,352 @@
+[
+ {
+  "name": "ASMA Academic Excellence Award",
+  "organization": "ASMA Higher Education Summit & Awards 2023",
+  "year": 2023,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 0
+ },
+ {
+  "name": "Best Engineering Contributor Award",
+  "organization": "The Institution of Engineers (India), Tamilnadu Centre",
+  "year": 2022,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 1
+ },
+ {
+  "name": "Best Leadership Award",
+  "organization": "The Institution of Engineers (India), Tamilnadu Centre",
+  "year": 2022,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 2
+ },
+ {
+  "name": "Innovative Research & Excellent Professional Achievement Award in Mechanical Engineering",
+  "organization": "The Innovative Global Scientific Researchers Educationalist-Professionals Award & Fellowship Honor Convocation 2022",
+  "year": 2022,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 3
+ },
+ {
+  "name": "Visvesvaraya National Award for Best Teacher",
+  "organization": "AICTE",
+  "year": 2021,
+  "category": "National Award",
+  "description": "AICTE-Visvesvaraya National Award for Best Teacher.",
+  "image": "",
+  "published": true,
+  "sortOrder": 4
+ },
+ {
+  "name": "World Top 2 % Scientist in Materials",
+  "organization": "Compiled by Stanford University",
+  "year": 2020,
+  "category": "Global Recognition",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 5
+ },
+ {
+  "name": "Prof. K. Arumugam National Award for innovative research work",
+  "organization": "Indian Society for Technical Education",
+  "year": 2018,
+  "category": "National Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 6
+ },
+ {
+  "name": "Maharashtra State National Award for Best Research work in Engineering and Technology",
+  "organization": "Indian Society for Technical Education",
+  "year": 2014,
+  "category": "National Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 7
+ },
+ {
+  "name": "Best Faculty of the Year Published Research",
+  "organization": "Computer Society of India (CSI)",
+  "year": 2019,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 8
+ },
+ {
+  "name": "World top 1% Peer reviewer",
+  "organization": "Publons Reviews, Web of Science group",
+  "year": 2019,
+  "category": "Peer Review Recognition",
+  "description": "Top reviewers in Cross-Field, Materials Science and Engineering — September 2019.",
+  "image": "",
+  "published": true,
+  "sortOrder": 9
+ },
+ {
+  "name": "World top 1% Peer reviewer",
+  "organization": "Publons Reviews, Web of Science group",
+  "year": 2018,
+  "category": "Peer Review Recognition",
+  "description": "Top reviewers in Materials Science and Engineering — September 2018.",
+  "image": "",
+  "published": true,
+  "sortOrder": 10
+ },
+ {
+  "name": "World top 1% Peer reviewer",
+  "organization": "Publons Reviews, Web of Science group",
+  "year": 2017,
+  "category": "Peer Review Recognition",
+  "description": "Top reviewers for Engineering — September 2017.",
+  "image": "",
+  "published": true,
+  "sortOrder": 11
+ },
+ {
+  "name": "Certified Sentinel of Science Award Recipient",
+  "organization": "Publons Reviews, Web of Science group",
+  "year": null,
+  "category": "Peer Review Recognition",
+  "description": "As one of the Top 10 percent of Researchers Contributing to the peer review of the field of Engineering. (Year not stated in the profile.)",
+  "image": "",
+  "published": true,
+  "sortOrder": 12
+ },
+ {
+  "name": "Best Principal Award",
+  "organization": "The Society for Educational and Entrepreneurship Development (SEED)",
+  "year": 2017,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 13
+ },
+ {
+  "name": "Outstanding Reviewer Award",
+  "organization": "Elsevier Journal - Measurement in cooperation with International Measurement Confederation",
+  "year": 2016,
+  "category": "Peer Review Recognition",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 14
+ },
+ {
+  "name": "Special paper presentation by National Board of Accreditation",
+  "organization": "National Board of Accreditation",
+  "year": 2013,
+  "category": "Recognition",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 15
+ },
+ {
+  "name": "Best Academic Researcher Award",
+  "organization": "ASDF Global Awards, Techno Forum Group, Pondicherry, India",
+  "year": 2013,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 16
+ },
+ {
+  "name": "Best Researcher Award",
+  "organization": "Association of Scientist, Developer and Faculties",
+  "year": 2012,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 17
+ },
+ {
+  "name": "Best Paper Award",
+  "organization": "YMCA University, Faridabad",
+  "year": 2012,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 18
+ },
+ {
+  "name": "Best Faculty Award",
+  "organization": "Nehru Group of Institutions",
+  "year": 2012,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 19
+ },
+ {
+  "name": "Best Teacher Award",
+  "organization": "Sathyabama University",
+  "year": 2008,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 20
+ },
+ {
+  "name": "Best Teacher Award",
+  "organization": "Sathyabama University",
+  "year": 2004,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 21
+ },
+ {
+  "name": "Best Technical Paper in R&D",
+  "organization": "Journal of Non-Destructive Testing",
+  "year": 2003,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 22
+ },
+ {
+  "name": "Best Teacher Award",
+  "organization": "Sathyabama University",
+  "year": 2002,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 23
+ },
+ {
+  "name": "Best Teacher Award",
+  "organization": "Sathyabama Engineering College",
+  "year": 1999,
+  "category": "Award",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 24
+ },
+ {
+  "name": "University First Rank in M.E. (Production Engineering)",
+  "organization": "Annamalai University",
+  "year": 1996,
+  "category": "Academic Distinction",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 25
+ },
+ {
+  "name": "Certificate of Excellence in Annamalai University Golden Jubilee Exhibition",
+  "organization": "Annamalai University",
+  "year": 1995,
+  "category": "Academic Distinction",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 26
+ },
+ {
+  "name": "Chairman / Fellow",
+  "organization": "The Institution of Engineers (India) - Kancheepuram Local Centre",
+  "year": 2020,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 27
+ },
+ {
+  "name": "National Executive Member",
+  "organization": "Indian Society for Technical Education",
+  "year": 2020,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 28
+ },
+ {
+  "name": "Executive Committee Member",
+  "organization": "Computer Society of India - Kancheepuram Local Centre",
+  "year": 2020,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 29
+ },
+ {
+  "name": "President",
+  "organization": "MOE's Institution Innovation Council (IIC)",
+  "year": 2018,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 30
+ },
+ {
+  "name": "Coordinator",
+  "organization": "DST Sponsored IEDC",
+  "year": 2015,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 31
+ },
+ {
+  "name": "Fellow Member",
+  "organization": "The Institution of Engineers",
+  "year": 2012,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 32
+ },
+ {
+  "name": "Chartered Engineer (India)",
+  "organization": "The Institution of Engineers",
+  "year": 2012,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 33
+ },
+ {
+  "name": "Fellow Member",
+  "organization": "Indian Institution of Production Engineers (IIPE)",
+  "year": 2004,
+  "category": "Leadership & Fellowship",
+  "description": "",
+  "image": "",
+  "published": true,
+  "sortOrder": 34
+ }
+]

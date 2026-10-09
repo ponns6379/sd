@@ -1,0 +1,98 @@
+[
+ {
+  "title": "Prof. Dr. K. Palanikumar — portrait",
+  "category": "Profile",
+  "image": "/images/profile.jpg",
+  "caption": "Portrait from the Bio-Data profile.",
+  "sortOrder": 0,
+  "published": true
+ },
+ {
+  "title": "Machine Intelligence in Mechanical Engineering (Preface)",
+  "category": "Publications / Books",
+  "image": "/images/books/book-1.jpg",
+  "caption": "Machine Intelligence in Mechanical Engineering (Preface)",
+  "sortOrder": 1,
+  "published": true
+ },
+ {
+  "title": "Response Surface Methodology (Introductory Chapter)",
+  "category": "Publications / Books",
+  "image": "/images/books/book-2.jpg",
+  "caption": "Response Surface Methodology (Introductory Chapter)",
+  "sortOrder": 2,
+  "published": true
+ },
+ {
+  "title": "Bio-Fiber Reinforced Composite Materials: Mechanical, Thermal and Tribological Properties",
+  "category": "Publications / Books",
+  "image": "/images/books/book-3.jpg",
+  "caption": "Bio-Fiber Reinforced Composite Materials: Mechanical, Thermal and Tribological Properties",
+  "sortOrder": 3,
+  "published": true
+ },
+ {
+  "title": "Response Surface Methodology in Engineering Science",
+  "category": "Publications / Books",
+  "image": "/images/books/book-4.jpg",
+  "caption": "Response Surface Methodology in Engineering Science",
+  "sortOrder": 4,
+  "published": true
+ },
+ {
+  "title": "Futuristic Trends in Intelligent Manufacturing",
+  "category": "Publications / Books",
+  "image": "/images/books/book-5.jpg",
+  "caption": "Futuristic Trends in Intelligent Manufacturing",
+  "sortOrder": 5,
+  "published": true
+ },
+ {
+  "title": "Materials Today: Proceedings, Volume 46, Part 9 — Special issue on materials, manufacturing and mechanical engineering for sustainable developments",
+  "category": "Publications / Books",
+  "image": "/images/books/book-6.jpg",
+  "caption": "Materials Today: Proceedings, Volume 46, Part 9 — Special issue on materials, manufacturing and mechanical engineering for sustainable developments",
+  "sortOrder": 6,
+  "published": true
+ },
+ {
+  "title": "Advances in Materials and Manufacturing Engineering: Select Proceedings of ICMME 2019",
+  "category": "Publications / Books",
+  "image": "/images/books/book-7.jpg",
+  "caption": "Advances in Materials and Manufacturing Engineering: Select Proceedings of ICMME 2019",
+  "sortOrder": 7,
+  "published": true
+ },
+ {
+  "title": "Materials Today: Proceedings, Volume 16, Part 2 — Special issue on Advances in Materials, Manufacturing and Applied Sciences",
+  "category": "Publications / Books",
+  "image": "/images/books/book-8.jpg",
+  "caption": "Materials Today: Proceedings, Volume 16, Part 2 — Special issue on Advances in Materials, Manufacturing and Applied Sciences",
+  "sortOrder": 8,
+  "published": true
+ },
+ {
+  "title": "Advances in Mechanical Engineering — International Conference on Mechanical and Manufacturing Engineering (ICMME-2015)",
+  "category": "Publications / Books",
+  "image": "/images/books/book-9.jpg",
+  "caption": "Advances in Mechanical Engineering — International Conference on Mechanical and Manufacturing Engineering (ICMME-2015)",
+  "sortOrder": 9,
+  "published": true
+ },
+ {
+  "title": "Modern Achievements and Developments in Manufacturing and Industry — ICRAMID 2014",
+  "category": "Publications / Books",
+  "image": "/images/books/book-10.jpg",
+  "caption": "Modern Achievements and Developments in Manufacturing and Industry — ICRAMID 2014",
+  "sortOrder": 10,
+  "published": true
+ },
+ {
+  "title": "Advances in Materials and Manufacturing — ICAMME-2014",
+  "category": "Publications / Books",
+  "image": "/images/books/book-11.jpg",
+  "caption": "Advances in Materials and Manufacturing — ICAMME-2014",
+  "sortOrder": 11,
+  "published": true
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "name": "Dr. M. Kathirvel",
+  "title": "Experimental Studies and Analysis on Machining Characteristics of Hybrid Metal Matrix (A6061 Al +SiC+ Graphite) Composites",
+  "university": "Sathyabama University",
+  "completion": "April 2011",
+  "completionYear": 2011,
+  "role": "Supervisor",
+  "area": "Metal Matrix Composites",
+  "published": true,
+  "sortOrder": 0
+ },
+ {
+  "name": "Dr. S. Prakash",
+  "title": "Experimental Investigation and Analysis on Drilling Characteristics of Wood Fiber Board Composites",
+  "university": "Sathyabama University, IT Highway, Chennai -119",
+  "completion": "May 2011",
+  "completionYear": 2011,
+  "role": "Supervisor",
+  "area": "Machining & Drilling",
+  "published": true,
+  "sortOrder": 1
+ },
+ {
+  "name": "Dr. V.K. Bupesh Raja",
+  "title": "Experimental Investigation on Welding Characteristics of Ti6Al4V Alloy using GTAW and LBW Technique",
+  "university": "Sathyabama University, Chennai -119",
+  "completion": "August 2011",
+  "completionYear": 2011,
+  "role": "Supervisor",
+  "area": "Welding & Joining",
+  "published": true,
+  "sortOrder": 2
+ },
+ {
+  "name": "Dr. T. Rajmohan",
+  "title": "Drilling Characteristics of hybrid metal matrix composites",
+  "university": "Sri Chandrasekarendra Saraswathi Viswa Mahavidyalaya, Kancheepuram, India",
+  "completion": "May 2013",
+  "completionYear": 2013,
+  "role": "Supervisor",
+  "area": "Metal Matrix Composites",
+  "published": true,
+  "sortOrder": 3
+ },
+ {
+  "name": "Dr. T. Sasimurugan",
+  "title": "Some studies on machining characteristics of Hybrid (AA6061+SiC+ Al2O3) aluminium metal matrix composites",
+  "university": "Sathyabama University, Chennai -119",
+  "completion": "May 2013",
+  "completionYear": 2013,
+  "role": "Supervisor",
+  "area": "Metal Matrix Composites",
+  "published": true,
+  "sortOrder": 4
+ },
+ {
+  "name": "Dr. Altaf Hussain",
+  "title": "Modeling, analysis and optimization of machining Characteristics of GFRP composites",
+  "university": "Jawaharlal Nehru Technological University, Anantapur",
+  "completion": "Jan 2013",
+  "completionYear": 2013,
+  "role": "Joint Supervisor",
+  "area": "Machining & Drilling",
+  "published": true,
+  "sortOrder": 5
+ },
+ {
+  "name": "Dr. K. Umanath",
+  "title": "Studies on Mechanical and wear behavior of Al6061 alloy/SiCp/Al2O3 hybrid metal matrix composites",
+  "university": "Bharath University, Chennai - 73",
+  "completion": "Jan 2014",
+  "completionYear": 2014,
+  "role": "Supervisor",
+  "area": "Metal Matrix Composites",
+  "published": true,
+  "sortOrder": 6
+ },
+ {
+  "name": "Dr. T.N. Valarmathi",
+  "title": "Studies on drilling of wood composite panels",
+  "university": "Sathyabama University, IT Highway, Chennai -119",
+  "completion": "April 2014",
+  "completionYear": 2014,
+  "role": "Supervisor",
+  "area": "Machining & Drilling",
+  "published": true,
+  "sortOrder": 7
+ },
+ {
+  "name": "Dr. M. Ramesh",
+  "title": "",
+  "university": "Jawaharlal Nehru Technological University, Anantapur",
+  "completion": "Dec 2014",
+  "completionYear": 2014,
+  "role": "Supervisor",
+  "area": "Other",
+  "published": true,
+  "sortOrder": 8
+ },
+ {
+  "name": "Dr. S.T. Selvamani",
+  "title": "Some studies on Friction welding of carbon Steels",
+  "university": "",
+  "completion": "Dec 2015",
+  "completionYear": 2015,
+  "role": "Supervisor",
+  "area": "Welding & Joining",
+  "published": true,
+  "sortOrder": 9
+ },
+ {
+  "name": "Dr. Sadrach Jeyasekaran",
+  "title": "Studies on Mechanical and Tribological characteristics of Natural fiber reinforced composites",
+  "university": "",
+  "completion": "April 2017",
+  "completionYear": 2017,
+  "role": "Supervisor",
+  "area": "Polymer & Natural Fibre Composites",
+  "published": true,
+  "sortOrder": 10
+ },
+ {
+  "name": "Dr. T. Srinivasan",
+  "title": "Studies on drilling of thermoplastic composites",
+  "university": "",
+  "completion": "June 2017",
+  "completionYear": 2017,
+  "role": "Supervisor",
+  "area": "Machining & Drilling",
+  "published": true,
+  "sortOrder": 11
+ },
+ {
+  "name": "Dr. Ashok Gandhi",
+  "title": "Tribological behavior of CNT reinforced thermoplastic composites",
+  "university": "",
+  "completion": "Aug 2017",
+  "completionYear": 2017,
+  "role": "Co-supervisor",
+  "area": "Polymer & Natural Fibre Composites",
+  "published": true,
+  "sortOrder": 12
+ },
+ {
+  "name": "Dr. MAJ. Bosco",
+  "title": "Mechanical and machining characteristics of glass fiber Armour steel reinforced polymer composites",
+  "university": "",
+  "completion": "Aug 2017",
+  "completionYear": 2017,
+  "role": "Supervisor",
+  "area": "Machining & Drilling",
+  "published": true,
+  "sortOrder": 13
+ },
+ {
+  "name": "Dr. M. Venkatesan",
+  "title": "Studies on Mechanical and wear characteristics of nano polymer and nano GFRP hybrid composites",
+  "university": "",
+  "completion": "Dec 2018",
+  "completionYear": 2018,
+  "role": "Supervisor",
+  "area": "Polymer & Natural Fibre Composites",
+  "published": true,
+  "sortOrder": 14
+ },
+ {
+  "name": "Dr. G. Ramya Devi",
+  "title": "Studies on Mechanical and Machining Characteristics of Glass Fibre Reinforced PolyLaminate",
+  "university": "",
+  "completion": "June 2020",
+  "completionYear": 2020,
+  "role": "Supervisor",
+  "area": "Machining & Drilling",
+  "published": true,
+  "sortOrder": 15
+ },
+ {
+  "name": "Dr. Eaben Rajkumar S",
+  "title": "Tribological and Drilling Studies of Al/B4C/Mica hybrid Metal Matrix Composites",
+  "university": "",
+  "completion": "Feb 2021",
+  "completionYear": 2021,
+  "role": "Supervisor",
+  "area": "Metal Matrix Composites",
+  "published": true,
+  "sortOrder": 16
+ },
+ {
+  "name": "Dr. A. Srithar",
+  "title": "Experimental Investigation On Machining Characteristics of AISI D2 Steel",
+  "university": "",
+  "completion": "Sep 2021",
+  "completionYear": 2021,
+  "role": "Supervisor",
+  "area": "Machining & Drilling",
+  "published": true,
+  "sortOrder": 17
+ },
+ {
+  "name": "K. Vijayakumar",
+  "title": "Studies on mechanical properties and vibration analysis of a novel caryota fiber reinforced Polymer composites",
+  "university": "",
+  "completion": "Sep 2021",
+  "completionYear": 2021,
+  "role": "Supervisor",
+  "area": "Polymer & Natural Fibre Composites",
+  "published": true,
+  "sortOrder": 18
+ },
+ {
+  "name": "K. Velavan",
+  "title": "Studies On Mechanical, Wear And Drilling Characteristics Of AL-10% B4C- mica hybrid composites",
+  "university": "",
+  "completion": "Jan 2022",
+  "completionYear": 2022,
+  "role": "Supervisor",
+  "area": "Metal Matrix Composites",
+  "published": true,
+  "sortOrder": 19
+ },
+ {
+  "name": "J.M. Prabhudass",
+  "title": "Experimental investigation Analysis of Mechanical, Thermal properties & Structural Integrity of MWCNT filled Bamboo/Kenaf Hybrid Polymer composites",
+  "university": "",
+  "completion": "Nov 2022",
+  "completionYear": 2022,
+  "role": "Supervisor",
+  "area": "Polymer & Natural Fibre Composites",
+  "published": true,
+  "sortOrder": 20
+ }
+]
